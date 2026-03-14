@@ -1,0 +1,1 @@
+// DetailModal Component Code
